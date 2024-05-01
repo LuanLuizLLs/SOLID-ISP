@@ -1,6 +1,6 @@
 <?php
 
-namespace CrmIsp\interfaces;
+namespace YesISP\interfaces;
 
 interface ICadastro {
   

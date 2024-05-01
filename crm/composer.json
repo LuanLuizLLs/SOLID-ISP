@@ -2,7 +2,7 @@
     "name": "luanl/crm",
     "autoload": {
         "psr-4": {
-            "Crm\\": "src/"
+            "NoISP\\": "src/"
         }
     },
     "authors": [

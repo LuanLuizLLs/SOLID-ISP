@@ -1,9 +1,9 @@
 <?php
 
-namespace CrmIsp\models;
+namespace YesISP\models;
 
-use CrmIsp\BD;
-use CrmIsp\interfaces\ICadastro;
+use YesISP\BD;
+use YesISP\interfaces\ICadastro;
 
 class ContratoModel extends BD implements ICadastro {
 

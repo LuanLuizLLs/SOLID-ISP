@@ -1,6 +1,6 @@
 <?php
 
-namespace Crm;
+namespace NoISP;
 
 class BD {
   

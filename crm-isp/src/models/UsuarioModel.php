@@ -1,13 +1,13 @@
 <?php
 
-namespace CrmIsp\models;
+namespace YesISP\models;
 
-use CrmIsp\BD;
-use CrmIsp\components\Log;
-use CrmIsp\components\Notificacao;
-use CrmIsp\interfaces\ICadastro;
-use CrmIsp\interfaces\ILog;
-use CrmIsp\interfaces\INotificacao;
+use YesISP\BD;
+use YesISP\components\Log;
+use YesISP\components\Notificacao;
+use YesISP\interfaces\ICadastro;
+use YesISP\interfaces\ILog;
+use YesISP\interfaces\INotificacao;
 
 class UsuarioModel extends BD implements ICadastro, ILog, INotificacao {
 

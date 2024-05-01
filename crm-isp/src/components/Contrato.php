@@ -1,5 +1,5 @@
 <?php
 
-namespace CrmIsp\components;
+namespace YesISP\components;
 
 class Contrato {}

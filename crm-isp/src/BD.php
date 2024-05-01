@@ -1,6 +1,6 @@
 <?php
 
-namespace CrmIsp;
+namespace YesISP;
 
 class BD {
   

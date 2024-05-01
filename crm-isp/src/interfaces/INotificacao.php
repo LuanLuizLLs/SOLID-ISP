@@ -1,8 +1,8 @@
 <?php
 
-namespace CrmIsp\interfaces;
+namespace YesISP\interfaces;
 
-use CrmIsp\components\Notificacao;
+use YesISP\components\Notificacao;
 
 interface INotificacao {
   

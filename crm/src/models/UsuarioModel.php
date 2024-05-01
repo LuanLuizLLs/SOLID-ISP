@@ -1,11 +1,11 @@
 <?php
 
-namespace Crm\models;
+namespace NoISP\models;
 
-use Crm\BD;
-use Crm\components\Log;
-use Crm\components\Notificacao;
-use Crm\interfaces\ICadastro;
+use NoISP\BD;
+use NoISP\components\Log;
+use NoISP\components\Notificacao;
+use NoISP\interfaces\ICadastro;
 
 class UsuarioModel extends BD implements ICadastro {
 

@@ -1,5 +1,5 @@
 <?php
 
-namespace Crm\components;
+namespace NoISP\components;
 
 class Usuario {}
