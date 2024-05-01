@@ -15,13 +15,13 @@ $usuarioModel = new UsuarioModel();
 $leadModel = new LeadModel();
 
 echo '<pre>';
-print_r($contratoModel);
+var_dump($contratoModel);
 echo '</pre>';
 
 echo '<pre>';
-print_r($usuarioModel);
+var_dump($usuarioModel);
 echo '</pre>';
 
 echo '<pre>';
-print_r($leadModel);
+var_dump($leadModel);
 echo '</pre>';
