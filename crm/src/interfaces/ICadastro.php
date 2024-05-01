@@ -1,9 +1,9 @@
 <?php
 
-namespace App\interfaces;
+namespace Crm\interfaces;
 
-use App\components\Log;
-use App\components\Notificacao;
+use Crm\components\Log;
+use Crm\components\Notificacao;
 
 interface ICadastro {
   

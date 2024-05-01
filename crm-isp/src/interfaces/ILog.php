@@ -1,8 +1,8 @@
 <?php
 
-namespace App\interfaces;
+namespace CrmIsp\interfaces;
 
-use App\components\Log;
+use CrmIsp\components\Log;
 
 interface ILog {
   

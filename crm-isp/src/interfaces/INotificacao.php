@@ -1,8 +1,8 @@
 <?php
 
-namespace App\interfaces;
+namespace CrmIsp\interfaces;
 
-use App\components\Notificacao;
+use CrmIsp\components\Notificacao;
 
 interface INotificacao {
   

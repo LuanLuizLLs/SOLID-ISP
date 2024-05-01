@@ -1,6 +1,6 @@
 <?php
 
-namespace App\interfaces;
+namespace CrmIsp\interfaces;
 
 interface ICadastro {
   

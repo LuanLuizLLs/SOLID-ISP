@@ -1,11 +1,11 @@
 <?php
 
-namespace App\models;
+namespace CrmIsp\models;
 
-use App\BD;
-use App\components\Notificacao;
-use App\interfaces\ICadastro;
-use App\interfaces\INotificacao;
+use CrmIsp\BD;
+use CrmIsp\components\Notificacao;
+use CrmIsp\interfaces\ICadastro;
+use CrmIsp\interfaces\INotificacao;
 
 class LeadModel extends BD implements ICadastro, INotificacao {
 

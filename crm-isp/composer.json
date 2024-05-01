@@ -2,7 +2,7 @@
     "name": "luanl/crm-isp",
     "autoload": {
         "psr-4": {
-            "App\\": "src/"
+            "CrmIsp\\": "src/"
         }
     },
     "authors": [

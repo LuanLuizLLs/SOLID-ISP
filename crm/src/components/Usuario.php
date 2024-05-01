@@ -1,5 +1,5 @@
 <?php
 
-namespace App\components;
+namespace Crm\components;
 
 class Usuario {}

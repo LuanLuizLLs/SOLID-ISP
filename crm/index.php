@@ -2,9 +2,9 @@
 
 require __DIR__.'/vendor/autoload.php';
 
-use App\models\ContratoModel;
-use App\models\UsuarioModel;
-use App\models\LeadModel;
+use Crm\models\ContratoModel;
+use Crm\models\UsuarioModel;
+use Crm\models\LeadModel;
 
 echo '<h2>Sem o Princípio da Segregação de Interface</h2>';
 

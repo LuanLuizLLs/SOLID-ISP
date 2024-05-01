@@ -1,11 +1,11 @@
 <?php
 
-namespace App\models;
+namespace Crm\models;
 
-use App\BD;
-use App\components\Log;
-use App\components\Notificacao;
-use App\interfaces\ICadastro;
+use Crm\BD;
+use Crm\components\Log;
+use Crm\components\Notificacao;
+use Crm\interfaces\ICadastro;
 
 class ContratoModel extends BD implements ICadastro {
 
